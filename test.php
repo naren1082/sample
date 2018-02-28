@@ -1,3 +1,3 @@
 <?php
-	echo "My sample program with Ashutosh!!!!! testing";
+	echo "My sample program with test test test";
 ?>
